@@ -37,4 +37,4 @@ const timer = new Timer({
   selector: "#timer-1",
   targetDate: new Date("Aug 19, 2021"),
 });
-// timer.start();
+timer.start();
